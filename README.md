@@ -23,8 +23,6 @@ Output the pattern.
 ##  Sample Output 0
 
    #
-   ---
-   
   ---
   
  #####
@@ -41,7 +39,7 @@ Output the pattern.
 1
 ## Sample Output 1
 
-#
+####
 
 ## Sample Input 2
 
