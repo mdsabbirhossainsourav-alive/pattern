@@ -41,6 +41,7 @@ Output the pattern.
 ## Sample Output 1
 
 #
+
 ## Sample Input 2
 
 7
