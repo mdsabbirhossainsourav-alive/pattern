@@ -39,7 +39,9 @@ Output the pattern.
 1
 ## Sample Output 1
 
-####
+#
+
+---
 
 ## Sample Input 2
 
