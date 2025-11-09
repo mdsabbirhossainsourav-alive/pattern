@@ -23,6 +23,7 @@ Output the pattern.
 ##  Sample Output 0
 
    #
+   ---
    
   ---
   
